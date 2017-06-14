@@ -1,0 +1,103 @@
+﻿Сборка начата 01.06.2017 19:44:06.
+     1>Проект "C:\Users\computer\Desktop\2.03\ManTuristBuisnessmanChelnok\ManTuristBuisnessmanChelnok\ManTuristBuisnessmanChelnok.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Businessman.cpp Human.cpp Main.cpp Tourist.cpp
+         Tourist.cpp
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\file.h(17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\excepttionn.h(34): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\excepttionn.h(41): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\proverka.h(9): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\proverka.h(18): warning C4996: 'flushall': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _flushall. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(719): см. объявление "flushall"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\proverka.h(56): warning C4996: 'flushall': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _flushall. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(719): см. объявление "flushall"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\proverka.h(82): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\proverka.h(90): warning C4996: 'flushall': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _flushall. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(719): см. объявление "flushall"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\proverka.h(116): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\proverka.h(125): warning C4996: 'flushall': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _flushall. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(719): см. объявление "flushall"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\proverka.h(133): warning C4018: <: несоответствие типов со знаком и без знака
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\proverka.h(145): warning C4996: 'flushall': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _flushall. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(719): см. объявление "flushall"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\tourist.cpp(28): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\tourist.cpp(31): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\tourist.cpp(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\tourist.cpp(40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\tourist.cpp(43): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\tourist.cpp(44): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\tourist.cpp(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\tourist.cpp(59): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\tourist.cpp(64): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\tourist.cpp(88): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\tourist.cpp(89): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\tourist.cpp(90): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\tourist.cpp(94): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\tourist.cpp(95): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+         Human.cpp
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\file.h(17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\human.cpp(19): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\human.cpp(20): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\human.cpp(26): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\human.cpp(27): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\human.cpp(40): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\human.cpp(45): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\human.cpp(53): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+         Businessman.cpp
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\file.h(17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\businessman.cpp(23): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\businessman.cpp(30): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\businessman.cpp(49): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\businessman.cpp(137): warning C4156: удаление массива без использования формы оператора "delete", предусмотренной для массива; подставлена предусмотренная форма оператора
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\businessman.cpp(137): warning C4154: удаление массива; выполнено преобразование к указателю
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\businessman.cpp(138): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\businessman.cpp(140): warning C4156: удаление массива без использования формы оператора "delete", предусмотренной для массива; подставлена предусмотренная форма оператора
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\businessman.cpp(140): warning C4154: удаление массива; выполнено преобразование к указателю
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\businessman.cpp(141): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+     1>c:\users\computer\desktop\2.03\manturistbuisnessmanchelnok\manturistbuisnessmanchelnok\businessman.cpp(145): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112): см. объявление "strcpy"
+         Создание кода...
+         Пропуск... (изменения не обнаружены)
+         Main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\computer\Desktop\2.03\ManTuristBuisnessmanChelnok\Debug\ManTuristBuisnessmanChelnok.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\computer\Desktop\2.03\ManTuristBuisnessmanChelnok\Debug\ManTuristBuisnessmanChelnok.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\computer\Desktop\2.03\ManTuristBuisnessmanChelnok\Debug\ManTuristBuisnessmanChelnok.lib" /MACHINE:X86 Debug\Businessman.obj
+         Debug\Human.obj
+         Debug\Main.obj
+         Debug\Tourist.obj
+         ManTuristBuisnessmanChelnok.vcxproj -> C:\Users\computer\Desktop\2.03\ManTuristBuisnessmanChelnok\Debug\ManTuristBuisnessmanChelnok.exe
+     1>Сборка проекта "C:\Users\computer\Desktop\2.03\ManTuristBuisnessmanChelnok\ManTuristBuisnessmanChelnok\ManTuristBuisnessmanChelnok.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:03.61

@@ -1,0 +1,69 @@
+#include <deque>
+
+template <class T>
+void PrintDeque(const deque<T> &dq)
+{
+
+
+deque<T> obj;
+
+void menuOcheredi(char *TXTfile)
+	{
+		//txtFile <T> txt;
+		txtFile <T> txt(TXTfile);
+		Algorithm<T> alg;
+		BinaryFile <T> bin ("Tourist");
+		cout << "Файлы: Tourist, " << TXTfile << endl;
+		system("pause");
+		int vibor = 1;
+		char name[20];
+		int number = 0;
+		int god = 0;
+		int dl;
+		while (vibor != 0)
+		{
+			int i = 0;
+			system("cls");
+			cout<<"1. Добавить в начало" << endl;
+			cout<<"2. Добавить в конец"<<endl;
+			cout<<"3. Удалить первый элемент"<<endl;
+			cout<<"4. Удалить последний элемент"<<endl;
+			cout<<"5. Удалить все"<<endl;
+			cout<<"6. Поиск"<<endl;
+			cout<<"7. Вывод на экран "<<endl;
+			cout<< "0. Выход" << endl;
+			cout<< "Выберите: ";
+			cin >> vibor;
+			system("cls");
+			switch (vibor)
+			{
+			case 1:
+			cin >> ob;
+			obj.push_front(ob);
+			break;
+			case 2:
+			cin >>ob;
+			obj.push_back(ob);
+			break;
+			case 3:
+			obj.earse(d.begin())
+			break;
+			case 4:
+			obj.earse(d.end())
+			break;
+			case 5:
+			while(begin()!=end())
+			{
+				obj.earse(d.begin())
+			}
+			break;
+			case 6:
+			
+			break;
+			case 7:
+			
+			break;
+
+
+
+
